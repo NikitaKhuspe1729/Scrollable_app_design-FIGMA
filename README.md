@@ -6,5 +6,6 @@ https://www.figma.com/proto/0m67vtMsMvqAaHgyncfsTD/Untitled?page-id=0%3A1&type=d
 
 
 
-https://github.com/NikitaKhuspe1729/Scrollable_app_design-using-FIGMA/assets/125488086/b43602cc-ebe5-458f-b135-c8084f5f8aec
+
+https://github.com/NikitaKhuspe1729/Scrollable_app_design-using-FIGMA/assets/125488086/de2789e2-b32c-401d-bb2f-3cbdfbeb1aa6
 
